@@ -1,0 +1,56 @@
+<template>
+   <div class="container mx-auto mt-4 px-4 lg:px-16">
+      <navbar />
+      <div class="flex mt-8 space-x-4 lg:space-x-8">
+        <!-- Adjusted CAR SIDE BAR to avoid absolute positioning for the search box -->
+        <div class="w-1/4">
+          <div class="space-y-4">
+            <div class="shadow border p-5">
+              <h3>Location</h3>
+              <h3 class="text-blue-400 capitalize">Toronto</h3>
+              <!-- Embedded Search Directly -->
+              <div class="mt-4">
+                <input type="text" class="border p-1 rounded w-full" placeholder="Search Location" />
+                <button class="bg-blue-400 w-full mt-2 rounded text-white p-1">
+                  Apply
+                </button>
+              </div>
+            </div>
+            <div class="shadow border p-5">
+              <h3>Make</h3>
+              <h3 class="text-blue-400 capitalize">Toyota</h3>
+            </div>
+            <div class="shadow border p-5">
+              <h3>Price</h3>
+              <h3 class="text-blue-400 capitalize"></h3>
+            </div>
+          </div>
+        </div>
+    
+        <!-- CAR CARDS -->
+        <div class="flex-grow space-y-5">
+          <!-- Car Card -->
+          <div class="shadow border overflow-hidden">
+            <div class="flex">
+              <img src="https://imgs.search.brave.com/ew2OSWGedvLospYgVRr-Q_I_kz0S2JQmmpwqS94RKlA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by93/aGl0ZS1zcG9ydC1j/YXItd2l0aC1ibGFj/ay1hdXRvdHVuaW5n/LWRyaXZpbmctYnkt/Zm9yZXN0XzExNDU3/OS00MDczLmpwZz9z/aXplPTYyNiZleHQ9/anBn" 
+              alt="Car Image"
+              class="w-1/3 object-cover">
+              <div class="p-4 flex flex-col justify-between">
+                <div>
+                  <h1 class="text-2xl text-blue-700">Volvo XC40</h1>
+                  <p class="text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <h1 class="text-xl">
+                  $39,555
+                </h1>
+              </div>
+            </div>
+          </div>
+          <!-- Car Card -->
+        </div>
+        <!-- CAR CARDS -->
+      </div>
+    </div>
+    
+ </template>
+ 
