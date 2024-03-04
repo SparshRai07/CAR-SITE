@@ -1,0 +1,110 @@
+[
+   {
+      "id":1,
+      "name":"Range Rover Sport",
+      "price":"82,777",
+      "url":"https://imgs.search.brave.com/7N9EifBdYhmv1j1LpmTl4wSFOj9aFnmj4iozFqiJ6h4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9maWxl/LmtlbGxleWJsdWVi/b29raW1hZ2VzLmNv/bS9rYmIvYmFzZS9o/b3VzZS8yMDI0LzIw/MjQtTGFuZCUyMFJv/dmVyLVJhbmdlJTIw/Um92ZXIlMjBTcG9y/dC1Gcm9udFNpZGVf/Uk9ST1ZTUFREWTIz/MDFfNjQweDQ4MC5q/cGc_ZG93bnNpemU9/MTc1Oio",
+      "seats": 5,
+      "miles":"14.666",
+      "features": ["No Accidents", "low KM", "Vechile "],
+      "description": "lorem7 b29raW1hZ2VzLmNv 7N9EifBdYhmv1j1LpmTl4wSFOj9aFnmj4iozFqiJ6h4"
+   },
+   
+      {
+        "id": 2,
+        "name": "Toyota Camry Hybrid LE",
+        "price": "32,340",
+        "url": "https://www.toyota.com/camryhybrid/",
+        "seats": 5,
+        "miles": "12,000",
+        "features": [
+          "Fuel-efficient",
+          "Spacious interior",
+          "Advanced safety features"
+        ],
+        "description": "This reliable and fuel-efficient sedan is perfect for everyday driving. It offers a comfortable ride, plenty of cargo space, and a suite of advanced safety features."
+      },
+      {
+        "id": 3,
+        "name": "Honda CR-V EX-L",
+        "price": "35,450",
+        "url": "https://www.headquarterhonda.com/research/new-honda-cr-v-trims-configurations/",
+        "seats": 5,
+        "miles": "18,500",
+        "features": [
+          "Spacious cargo space",
+          "Sunroof",
+          "Leather seats"
+        ],
+        "description": "This versatile SUV offers a comfortable ride, ample cargo space, and a variety of features that make it perfect for families on the go."
+      },
+      {
+        "id": 4,
+        "name": "Ford Mustang GT",
+        "price": "55,800",
+        "url": "https://www.ford.com/mustang/",
+        "seats": 4,
+        "miles": "25,000",
+        "features": [
+          "Powerful engine",
+          "Sporty handling",
+          "Stylish design"
+        ],
+        "description": "This iconic muscle car is a thrill to drive and is sure to turn heads wherever you go."
+      },
+      {
+        "id": 5,
+        "name": "Jeep Wrangler Rubicon Unlimited",
+        "price": "52,190",
+        "url": "https://www.jeep.com/2023/wrangler.html",
+        "seats": 5,
+        "miles": "10,000",
+        "features": [
+          "Off-road capability",
+          "Convertible top",
+          "Removable doors"
+        ],
+        "description": "This legendary off-roader is ready to take you on any adventure. It's built for the toughest trails and offers a unique open-air driving experience."
+      },
+      {
+        "id": 6,
+        "name": "Tesla Model 3 Long Range",
+        "price": "46,990",
+        "url": "https://www.tesla.com/model3",
+        "seats": 5,
+        "miles": "7,500",
+        "features": [
+          "Electric powertrain",
+          "Long range",
+          "Advanced technology"
+        ],
+        "description": "This innovative electric car offers exceptional performance, long range, and a variety of cutting-edge technology features."
+      },
+      {
+        "id": 7,
+        "name": "Hyundai Sonata SEL",
+        "price": "27,250",
+        "url": "https://www.hyundaiusa.com/us/en/vehicles/sonata",
+        "seats": 5,
+        "miles": "15,000",
+        "features": [
+          "Stylish design",
+          "Comfortable interior",
+          "Infotainment system"
+        ],
+        "description": "This stylish and feature-packed sedan offers a great value for the price. It boasts a comfortable ride, a spacious interior, and a generous list of standard features."
+      },
+      {
+        "id": 8,
+        "name": "Kia Telluride SX Prestige",
+        "price": "49,340",
+        "url": "https://www.kia.com/us/en/telluride",
+        "seats": 8,
+        "miles": "20,000",
+        "features": [
+          "Spacious interior",
+          "Luxurious amenities",
+          "Advanced safety technology"],
+          "description": "This luxurious SUV offers everything you need to transport your family in style and comfort. It's packed with features and boasts a spacious interior that can comfortably seat up to 8 passengers."
+        }
+      ]

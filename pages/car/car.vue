@@ -3,6 +3,13 @@ const route = useRoute()
 useHead({
    title: `${route.params.make ? toTitleCase(route.params.make) : 'Cars'} in  ${toTitleCase(route.params.city)}`,
 });
+
+definePageMeta({
+   title: toTitleCase(route.params.name)
+});
+
+
+
 function toTitleCase(str) {
   return str.replace(
     /\w\S*/g,

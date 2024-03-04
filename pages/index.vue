@@ -1,6 +1,6 @@
 <script>
 useHead({
-   title:"Carttrader",
+   title:"Carttrader", 
 
 })
 </script>
